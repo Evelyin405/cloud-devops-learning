@@ -79,3 +79,19 @@ man ls
 
 Output:
 Opens detailed documentation for the ls command.
+### man
+
+Purpose:
+Displays the manual (help documentation) for a command.
+
+Syntax:
+man command_name
+
+Example:
+man ls
+
+Output:
+Shows detailed information about the ls command.
+
+To Exit:
+Press q
